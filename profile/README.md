@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TerrAgree/.github/main/profile/logo.png" width="80" height="80" alt="TerrAgree" />
+  <img src="./logo.png" width="80" height="80" alt="TerrAgree" />
 </p>
 
 <h1 align="center">TerrAgree</h1>
